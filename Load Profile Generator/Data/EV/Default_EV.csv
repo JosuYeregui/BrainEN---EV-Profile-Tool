@@ -1,0 +1,294 @@
+Model,Share,Battery_Size,Max_Charge_P
+Aiways U5,1,63,95
+Aiways U5,1,63,95
+Artega Karo,1,14.4,4
+Artega Karo,1,8,4
+Audi Q4 Sportback e-tron,1,52,100
+Audi Q4 Sportback e-tron,1,77,125
+Audi Q4 e-tron,1,77,125
+Audi Q4 e-tron,1,52,100
+Audi Q4 e-tron,1,77,125
+Audi e-tron 50,1,65,124
+Audi e-tron S,1,95,188
+Audi e-tron 55,1,86.5,155
+Audi e-tron 55,1,86.5,155
+Audi e-tron 50,1,65,125
+Audi A3 Sportback 40 e-tron,1,8.8,3.7
+Audi e-tron S,1,86.5,149
+Audi A6,1,14.1,7.4
+Audi A6,1,14.1,7.4
+Audi A7 55TFSI E,1,14.1,7.4
+Audi Q5 55 TFSI,1,14.1,7.4
+Audi Q7 e-tron,1,17.3,7.2
+BMW i3S,1,37.9,50
+BMW i3,1,37.9,50
+BMW X5,1,22.2,3.7
+BMW X3,1,11.15,3.7
+BMW X2,1,8.8,3.7
+BMW X1,1,8.8,3.7
+BMW 745Le,1,11.15,3.7
+BMW 745Le,1,11.15,3.7
+BMW 740 E,1,7.4,3.7
+BMW 545,1,11.15,3.7
+BMW 530e,1,11.15,3.7
+BMW 530e,1,11.15,3.7
+BMW 530e,1,11.15,3.7
+BMW 530e,1,11.15,3.7
+BMW 330e,1,11.5,3.7
+BMW 330e,1,11.15,3.7
+BMW 330e,1,11.15,3.7
+BMW 330e,1,11.5,3.7
+BMW 330e,1,12,3.7
+BMW 225XE,1,8.8,3.7
+BMW 225XE,1,10,3.7
+BMW 225XE,1,8.8,3.7
+BMW I8,1,9.4,3.7
+BMW iX3,1,73.8,150
+BMW i3,1,18.8,47
+BMW i3,1,37.9,50
+BMW X5,1,21,3.7
+BMW i3,1,27.2,50
+BMW iX3,1,74,148
+BMW i3S,1,27.2,49
+BMW i3S,1,27.2,49
+BMW i3S,1,37.9,49
+BMW X1,1,9.7,3.6
+BMW X3,1,12,3.7
+CUPRA Born,1,58,100
+CUPRA Born,1,58,100
+CUPRA Born,1,77,125
+CUPRA Born,1,45,100
+Chevrolet Spark EV,1,21.3,50
+Chevrolet Spark EV,1,19,50
+Chevrolet Bolt,1,58,55
+Citroen Ami,1,5.5,2.3
+Citroen C-Zero,1,14.5,50
+Citroen Berlingo Electric,1,22.5,50
+Citroen Ã«-C4,1,46,99
+Citroen C5,1,13.2,6.6
+Citroen Ã«-Spacetourer,1,46,99
+Citroen Ã«-Spacetourer,1,75,99
+DS 3 Crossback E-Tense,1,46,100
+DS 3 Crossback E-Tense,1,46,100
+DS 7 Crossback,1,13.2,7.4
+Dacia Spring Electric,1,26.8,30
+Energica Eva,1,18.9,23
+Energica Ego,1,18.9,23
+Energica Eva,1,18.9,3
+Fiat 500e,1,19.2,6.6
+Fiat 500e,1,42,85
+Ford Focus electric,1,23,6.6
+Ford Focus electric,1,33.5,50
+Ford Kuga,1,14.4,3.7
+Ford Mustang Mach e,1,88,148
+Ford Mustang Mach e,1,70,113
+Ford Mustang Mach e,1,70,113
+Ford Mustang Mach e,1,88,148
+Ford Mustang Mach e,1,88,148
+Honda e,1,32,60
+Hyundai Ioniq,1,38.3,46
+Hyundai Ioniq 5,1,72.6,232
+Hyundai Kona,1,64,77
+Hyundai Kona,1,39.2,50
+Hyundai Kona,1,64,77
+Hyundai Kona,1,39.2,50
+Hyundai Ioniq,1,28,69
+Hyundai Ioniq,1,8.9,3.7
+Jaguar i-Pace,1,84,105
+Jaguar i-Pace,1,84,105
+Jaguar i-Pace,1,84,105
+Jeep Renegade 4xe,1,11.4,7.4
+Kia EV6,1,58,175
+Kia EV6,1,77.4,250
+Kia Soul,1,30,50
+Kia e-Niro,1,64,77
+Kia e-Niro,1,64,77
+Kia e-Niro,1,39,50
+Kia e-Niro,1,39,50
+Kia Soul,1,27,50
+Kia e-Soul,1,64,77
+Kia e-Soul,1,39,50
+Kia e-Soul,1,64,77
+Kia e-Soul,1,39,50
+Kia Ceed SW,1,8.9,3.3
+Kia XCeed,1,8.9,3.3
+Kia Niro,1,8.9,3.3
+MAN e TGE,1,35.8,40
+MG MG5 EV,1,48.8,80
+MG ZS EV,1,44.5,80
+Maxus EV80,1,56,28
+Mazda MX-30,1,32,38
+Mercedes Benz EQC,1,80,125
+Mercedes Benz EQC,1,80,125
+Mercedes Benz EQA,1,66.6,99
+Mercedes Benz EQV,1,90,110
+Mercedes Benz B-Klasse,1,28,11
+Mercedes Benz A 250 e,1,10.7,24
+Mercedes Benz A 250 e,1,10.7,7.4
+Mercedes Benz A 250 e,1,10.7,3.7
+Mercedes Benz GLC 300 de 4MATIC,1,13.5,7.4
+Mercedes Benz C 300,1,13.5,7.4
+Mercedes Benz E 300,1,13.5,7.4
+Mercedes Benz GLE,1,31.2,60
+Mercedes Benz C 300,1,13.5,7.4
+Mercedes Benz CLA 250,1,15.6,24
+Mercedes Benz E 350,1,9,3.7
+Mercedes Benz E 300,1,13.5,7.4
+Mercedes Benz eVito,1,41,7.2
+Mini Countryman ALL4,1,7.6,3.6
+Mini Cooper SE,1,28.9,50
+Mitsubishi i-Miev,1,14.5,50
+Mitsubishi Outlander PHEV,1,11,22
+Nissan e-NV 200,1,24,46
+Nissan e-NV 200,1,24,46
+Nissan e-NV 200,1,38,45
+Nissan Leaf,1,62,100
+Nissan Leaf,1,38,45
+Nissan Leaf,1,24,46
+Nissan Leaf,1,24,46
+Nissan Leaf,1,30,47
+Nissan Leaf,1,30,47
+Opel Corsa-e,1,45,99
+Opel Corsa-e,1,45,99
+Opel Mokka-e,1,47.5,97
+Opel Vivaro-e,1,50,100
+Opel Vivaro-e,1,75,100
+Opel Ampera e,1,60,45
+Opel Ampera e-Pionier,1,10.6,2.2
+Opel Zafira e-life,1,46,100
+Peugeot e-208,1,45,97
+Peugeot E-Traveller,1,45,98
+Peugeot E-Traveller,1,45,98
+Peugeot e-208,1,45,97
+Peugeot I-on,1,14.5,50
+Peugeot e-2008,1,47.5,97
+Peugeot e-2008,1,47.5,97
+Peugeot Partner,1,22.5,50
+Peugeot 3008,1,11.2,3.7
+Peugeot 3008,1,11.2,7.4
+Polestar 2,1,72.5,150
+Porsche Taycan,1,83.7,270
+Porsche Taycan,1,71,225
+Porsche Taycan,1,83.7,270
+Porsche Taycan,1,83.7,270
+Renault Zoe,1,41,22
+Renault Zoe,1,41,46
+Renault Zoe,1,22,43
+Renault Zoe,1,22,22
+Renault Zoe,1,52,46
+Renault Zoe,1,41,30
+Renault Zoe,1,52,46
+Renault Kangoo ZE,1,33,7.2
+Renault Twizy,1,6.1,3.6
+Renault Captur E-Tech,1,9.8,3
+Renault Twingo Z.E.,1,21.3,22
+Seat Leon eHybrid,1,13,3.7
+Seat Mii Electric,1,32.3,34
+Skoda Enyaq iV,1,77,125
+Skoda Enyaq iV,1,77,50
+Skoda Enyaq iV,1,58,50
+Skoda Enyaq iV,1,58,100
+Skoda Octavia,1,13,3.6
+Skoda CITIGOe iV,1,32.3,34
+Skoda Superb iV,1,13,3.6
+Skoda Enyaq iV,1,52,50
+Tesla Roadster,1,200,250
+Tesla Model S,1,67,100
+Tesla Model S,1,67,100
+Tesla Model 3,1,74,195
+Tesla Model 3,1,50,149
+Tesla Model 3,1,72.5,195
+Tesla Model S,1,76,140
+Tesla Model S,1,95,140
+Tesla Model S,1,81,140
+Tesla Model S,1,72.5,120
+Tesla Model S,1,77.5,197
+Tesla Model S,1,82,197
+Tesla Model S,1,72.5,197
+Tesla Model S,1,98,197
+Tesla Model S,1,83.5,120
+Tesla Model S,1,80.8,120
+Tesla Model S,1,98,197
+Tesla Model S,1,72.5,120
+Tesla Model S,1,95,197
+Tesla Model S,1,62,120
+Tesla Model S,1,80.8,120
+Tesla Model S,1,72.5,197
+Tesla Model S,1,95,197
+Tesla Model S,1,62,120
+Tesla Model S,1,66.5,120
+Tesla Model S,1,66.5,120
+Tesla Model X,1,90,140
+Tesla Model X,1,90,140
+Tesla Model X,1,100,140
+Tesla Model X,1,100,140
+Tesla Model X,1,100,140
+Tesla Model X,1,100,140
+Tesla Model X,1,75,140
+Tesla Model X,1,60,140
+Tesla Model X,1,95,148
+Tesla Model X,1,95,148
+Tesla Model X,1,75,140
+Tesla Model X,1,72.5,148
+Tesla Model Y,1,72.5,246
+Tesla Model Y,1,72.5,246
+Volkswagen Golf GTE,1,13,3.7
+Volkswagen ID.4,1,77,125
+Volkswagen ID.3,1,77,125
+Volkswagen ID.3,1,45,50
+Volkswagen ID.3,1,58,100
+Volkswagen e-Golf,1,21.2,44
+Volkswagen e-Golf,1,31.5,40
+Volkswagen e-Golf,1,31.5,7.2
+Volkswagen e-Golf,1,21.2,3.6
+Volkswagen e-Golf,1,31.5,40
+Volkswagen e-up,1,16.5,44
+Volkswagen e-up,1,16.5,3.6
+Volkswagen e-up,1,32.3,7.2
+Volkswagen Golf GTE,1,8.7,3.7
+Volkswagen Passat GTE,1,13.1,3.7
+Volkswagen e-up,1,32.3,34
+Volvo XC40 PHEV,1,10.7,3.7
+Volvo XC 60 T8,1,10.4,3.7
+Volvo XC40,1,75,148
+Zero Motorcycles S,1,12.6,7.3
+Zero Motorcycles SR/S,1,15.8,3.7
+Zero Motorcycles S,1,6.3,1.3
+Zero Motorcycles S,1,6.3,7.3
+Zero Motorcycles S,1,12.6,3.7
+Zero Motorcycles SR,1,12.6,7.3
+Zero Motorcycles S,1,15.8,3.7
+Zero Motorcycles SR,1,12.6,3.7
+Zero Motorcycles SR/S,1,12.6,9.7
+Zero Motorcycles SR/F,1,12.6,3.7
+Zero Motorcycles SR,1,15.8,3.7
+Zero Motorcycles SR/F,1,15.8,3.7
+Zero Motorcycles SR/F,1,12.6,6
+Zero Motorcycles SR/F,1,12.6,9.7
+Zero Motorcycles DS,1,15.8,3.7
+Zero Motorcycles SR/F,1,12.6,12
+Zero Motorcycles SR/F,1,15.8,6
+Zero Motorcycles SR/S,1,12.6,3.7
+Zero Motorcycles SR/S,1,12.6,6
+Zero Motorcycles DSR,1,12.6,7.3
+Zero Motorcycles DS,1,12.6,7.3
+Zero Motorcycles DSR,1,12.6,1.3
+Zero Motorcycles SR/S,1,12.6,12
+Zero Motorcycles SR/S,1,15.8,6
+Zero Motorcycles DS,1,12.6,3.7
+Zero Motorcycles DSR,1,15.8,1.3
+Zero Motorcycles DSR/BF,1,12.6,1.3
+Zero Motorcycles DSR/BF,1,15.8,1.3
+Zero Motorcycles FXS,1,6.3,0.65
+Zero Motorcycles DSR/BF,1,12.6,7.3
+Zero Motorcycles FX,1,6.3,0.65
+Zero Motorcycles FXS,1,6.3,0.65
+e.GO Mobile Life 60,1,21,3.6
+e.GO Mobile Life 40,1,17.5,3.6
+e.GO Mobile Life 20,1,14.5,3.6
+smart fortwo ED,1,17.6,22
+smart fortwo EQ,1,17.6,3.6
+smart fortwo EQ,1,17.6,22
+smart fortwo ED,1,17.6,3.6
+smart forfour EQ,1,17.6,3.6
+smart forfour EQ,1,17.6,22
